@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+puppeteer_test/node_modules/
+analysis/node_modules/
+
+# Environment configurations
+.env
+.env.local
+.env.*
+!.env.example
+
+# Build & compilation outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Supabase local temp files
+/supabase/.temp/
+supabase/.temp/
+supabase/dump.sql
