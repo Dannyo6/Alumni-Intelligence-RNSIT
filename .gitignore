@@ -32,3 +32,7 @@ Thumbs.db
 /supabase/.temp/
 supabase/.temp/
 supabase/dump.sql
+
+# AI development artifacts
+.agents/
+.claude/
