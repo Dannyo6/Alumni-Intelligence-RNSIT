@@ -33,6 +33,6 @@ Thumbs.db
 supabase/.temp/
 supabase/dump.sql
 
-# AI development artifacts
+# AI development artifacts & scratchpads
 .agents/
 .claude/
